@@ -1,0 +1,21 @@
+operations 
+
+how to make consistant 
+
+data structure 
+
+want special cases:
+
+two clients delete same char
+
+delete than add same char
+
+
+ttl flooding the network
+
+
+based on paper
+
+justification of why datastructure is credt
+\
+cases msg arrived in differrent order
